@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebApplicationNBA.Tests/WebApplicationNBA.Tests.csproj" />
+  <Project Path="WebApplicationNBA/WebApplicationNBA.csproj" />
+</Solution>

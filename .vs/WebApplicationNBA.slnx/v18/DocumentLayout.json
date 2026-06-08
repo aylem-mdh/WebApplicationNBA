@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba.tests\\seleniumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|solutionrelative:webapplicationnba.tests\\seleniumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba.tests\\swaggertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|solutionrelative:webapplicationnba.tests\\swaggertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba.tests\\webapplicationnba.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|solutionrelative:webapplicationnba.tests\\webapplicationnba.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba.tests\\playerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C76153D-9107-9CB6-42CC-0824A7211E63}|WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj|solutionrelative:webapplicationnba.tests\\playerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\testauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\testauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\webapplicationnba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\webapplicationnba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|c:\\users\\aylem\\source\\repos\\webapplicationnba\\webapplicationnba\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BACC2B1F-F659-7183-3A8F-B33BB12536CE}|WebApplicationNBA\\WebApplicationNBA.csproj|solutionrelative:webapplicationnba\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\README.md",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\README.md",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\README.md",
+              "RelativeToolTip": "WebApplicationNBA\\README.md",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJ4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-08T14:25:15.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleniumTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\SeleniumTests.cs",
+              "RelativeDocumentMoniker": "WebApplicationNBA.Tests\\SeleniumTests.cs",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\SeleniumTests.cs",
+              "RelativeToolTip": "WebApplicationNBA.Tests\\SeleniumTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T14:11:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\SwaggerTests.cs",
+              "RelativeDocumentMoniker": "WebApplicationNBA.Tests\\SwaggerTests.cs",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\SwaggerTests.cs",
+              "RelativeToolTip": "WebApplicationNBA.Tests\\SwaggerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T13:49:49.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestAuthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\TestAuthHandler.cs",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\TestAuthHandler.cs",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\TestAuthHandler.cs",
+              "RelativeToolTip": "WebApplicationNBA\\TestAuthHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:18:53.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\Dockerfile",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\Dockerfile",
+              "RelativeToolTip": "WebApplicationNBA\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-08T06:56:54.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\PlayersTests.cs",
+              "RelativeDocumentMoniker": "WebApplicationNBA.Tests\\PlayersTests.cs",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\PlayersTests.cs",
+              "RelativeToolTip": "WebApplicationNBA.Tests\\PlayersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:35:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplicationNBA.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj",
+              "RelativeDocumentMoniker": "WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj",
+              "RelativeToolTip": "WebApplicationNBA.Tests\\WebApplicationNBA.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T06:35:30.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\Program.cs",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\Program.cs",
+              "RelativeToolTip": "WebApplicationNBA\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:03:40.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\appsettings.json",
+              "RelativeToolTip": "WebApplicationNBA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T15:03:36.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplicationNBA.csproj",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\WebApplicationNBA.csproj",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\WebApplicationNBA.csproj",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\WebApplicationNBA.csproj",
+              "RelativeToolTip": "WebApplicationNBA\\WebApplicationNBA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-07T14:56:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplicationNBA\\.gitignore",
+              "ToolTip": "C:\\Users\\Aylem\\source\\repos\\WebApplicationNBA\\WebApplicationNBA\\.gitignore",
+              "RelativeToolTip": "WebApplicationNBA\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-03T18:07:09.375Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

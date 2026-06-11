@@ -69,7 +69,7 @@ http://localhost:8090/swagger
 ---
 
 # 🖥️ Ejecutar en local
-https://localhost:44350/swagger
+https://localhost:44350/
 
 ---
 
